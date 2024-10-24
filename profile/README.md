@@ -1,6 +1,6 @@
 # Hello, I'm Voting.io
 
-To know more about me, please visit my ***[Voting IO docs](https://voting-io.github.io/docs/)***.
+To know more about me, please visit my ***[Voting IO docs](https://www.developingnotes.com/projects/voting/)***.
 
 ---
 
